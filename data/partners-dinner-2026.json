@@ -1,0 +1,2981 @@
+{
+    "event":  "partners-dinner-2026",
+    "title":  "Virtus Medical Partners Dinner 2026",
+    "activeLayout":  "option2",
+    "source":  "Partners-Dinner-rsvp-updated-21.xlsx (151) + Option1 aligned",
+    "updatedAt":  "2026-10-26T05:48:14.6618412Z",
+    "tables":  [
+                   {
+                       "id":  "t_o2_1",
+                       "label":  "T1",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  560,
+                       "y":  150,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_2",
+                       "label":  "T2",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  560,
+                       "y":  332,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_3",
+                       "label":  "T3",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  560,
+                       "y":  514,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_4",
+                       "label":  "T4",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  713,
+                       "y":  150,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_5",
+                       "label":  "T5",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  713,
+                       "y":  332,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_6",
+                       "label":  "T6",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  713,
+                       "y":  514,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_7",
+                       "label":  "T7",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  866,
+                       "y":  150,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_8",
+                       "label":  "T8",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  866,
+                       "y":  332,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_9",
+                       "label":  "T9",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  866,
+                       "y":  514,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_10",
+                       "label":  "T10",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1019,
+                       "y":  150,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_11",
+                       "label":  "T11",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1019,
+                       "y":  332,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_12",
+                       "label":  "T12",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1019,
+                       "y":  514,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_13",
+                       "label":  "T13",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1172,
+                       "y":  150,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_14",
+                       "label":  "T14",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1172,
+                       "y":  332,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_15",
+                       "label":  "T15",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1172,
+                       "y":  514,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_16",
+                       "label":  "T16",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1325,
+                       "y":  150,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_17",
+                       "label":  "T17",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1325,
+                       "y":  332,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_18",
+                       "label":  "T18",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1325,
+                       "y":  514,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_19",
+                       "label":  "T19",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1478,
+                       "y":  150,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_20",
+                       "label":  "T20",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1478,
+                       "y":  332,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_21",
+                       "label":  "T21",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "h",
+                       "x":  1478,
+                       "y":  514,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_22",
+                       "label":  "T22",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "v",
+                       "x":  1650,
+                       "y":  145,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_23",
+                       "label":  "T23",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "v",
+                       "x":  1650,
+                       "y":  323,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_24",
+                       "label":  "T24",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "v",
+                       "x":  1650,
+                       "y":  501,
+                       "fixed":  true
+                   },
+                   {
+                       "id":  "t_o2_25",
+                       "label":  "T25",
+                       "seats":  6,
+                       "shape":  "long",
+                       "orient":  "v",
+                       "x":  1650,
+                       "y":  679,
+                       "fixed":  true
+                   }
+               ],
+    "guests":  [
+                   {
+                       "id":  "g_12aa3617",
+                       "name":  "Dr Danny Lee",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · General Surgery · Medical Protection Society · Medical Protection Society。General Surgery。dannywhlee@gmail.com。26 Oct Luma 新登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_14b4cc8c",
+                       "name":  "Ms Joeky Leung",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · MPS · Medical Protection Society · Medical Protection Society。joeky.leung@medicalprotection.org。Colin Lau 邀請。26 Oct Luma 新登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_e9ef7309",
+                       "name":  "Ms Jinglei Chen",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · BEI · BEI / bei capital。jchen@beicapital.com。Collin Lau 邀請。23 Oct Luma 新登記（上次 cutover 之後）。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_82cf1900",
+                       "name":  "Ms Connie Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Pfizer · Pfizer。connie.chan@pfizer.com。23 Oct Luma 新登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_f7d61bd6",
+                       "name":  "Mr Ares Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Pfizer · Pfizer。ares.chan@pfizer.com。23 Oct Luma 新登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_fa72948a",
+                       "name":  "Mr Jason Lam",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Apioha · Apioha。j90276905@gmail.com。23 Oct Luma 新登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_0a94ace7",
+                       "name":  "Ms Sandra Lau",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · 內部員工：Group Finance Controller。22 Oct Luma 已登記（原員工必到未登）。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_6430c3a1",
+                       "name":  "Mr Aidan Tang",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Staff · Virtus Medical Group · 內部員工。N/A。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_18d97d2d",
+                       "name":  "Ms Gloria Wong",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Clinic Manager · Virtus Medical Group · 內部員工：Clinic Manager。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7d7ee8b6",
+                       "name":  "Mr Samuel Chan",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Head of AI · Virtus Medical Group · 內部員工：Head of AI。Chan Ka Sum。唔係 Samuel Poon／Samuel Fung。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_ed4fe717",
+                       "name":  "Mr Terry Kwok",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · SportSoho · SportSoho。terry@sportsoho.com。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_027aa336",
+                       "name":  "Mr Ricky Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · SportSoho · SportSoho。ricky@sportsoho.com。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_d94d72f5",
+                       "name":  "Mr Jose Diaz",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Mitsui · Mitsui。j.diazpernett@mitsui.com。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_22defc30",
+                       "name":  "Ms Siou Wang",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Beijing international medical center · Beijing international medical center。bei capital。Collin 邀請。21 Oct Luma 新登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_f891c477",
+                       "name":  "Dr Peter Chan Chun Wing",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Luma · Gastroenterology \u0026 Hepatology · Virtus Medical · CHAN Chun Wing, Peter。Not included。Gastroenterology \u0026 Hepatology。Luma 名 Chan Peter Chun Wing。唔係 Guest list Peter Chan（ex Han）。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_1c0cc0e3",
+                       "name":  "Mr Henry Ho",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · DKSH · DKSH。henry.ho@dksh.com。21 Oct 10:32 Luma 新登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_db67a35a",
+                       "name":  "Ms Phyllis Fong",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · DKSH · DKSH。phyllis.fong@dksh.com。Rittou 邀請。21 Oct 10:31 Luma 新登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_33eaeb95",
+                       "name":  "Dr Joseph Lam",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Outside · Lam See Yui Joseph。唔係 Cannot 段 LAM Ming Kuen。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_49aa0b53",
+                       "name":  "Mrs Sunita Bahrunani",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · GM, Client \u0026 Provider Relations · Virtus Medical Group · 內部員工：GM Client \u0026 Provider Relations。21 Oct WhatsApp + Luma 已登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_d1ca9a06",
+                       "name":  "Ms Shirley Lau",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "WhatsApp · Heart Clinic · Heart Clinic。21 Oct 加入。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_74702a65",
+                       "name":  "Prof Tse Hung Fat",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Cardiology; QMH Chief of Service (Medicine) · HKU / QMH · QMH Chief of Service (Medicine)；William MW Mong Professor in Cardiology；Chair of Cardiovascular Medicine；Chief of Cardiology Division。21 Oct 加入；22 Oct Luma 已登記。飲食：No red meat; seafood preferrable。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_4dfc14fa",
+                       "name":  "Mr Alkin Kwong",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · JP; Chairman, Hong Yip · Sun Hung Kai Properties / Hong Yip · JP；Chairman of Sun Hung Kai Properties Hong Yip。接受邀請；無 Luma。26 Oct checklist 加入",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_67d6ac79",
+                       "name":  "Mr John Wong",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · General Manager · SHKP Lik On · GM of SHKP Lik On。接受邀請；無 Luma。26 Oct checklist 加入。唔係其他 Wong",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_a8de243a",
+                       "name":  "Prof Ferenc Kraucz",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Chair of Laser Physics; 2023 Nobel Laureate · Nobel · Chair of Laser Physics；2023 Nobel Laureate。Nobel team。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_e238c0c4",
+                       "name":  "Prof Sophia Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Nobel · Nobel team。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_f01a8690",
+                       "name":  "Prof Dennis Ip",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Nobel · Nobel team。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_3fcd0fa9",
+                       "name":  "Ms Teresa So",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Nobel · Nobel team。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_d9e75680",
+                       "name":  "Mrs Adrienn David",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "WhatsApp／口頭 VIP · Asst Dir, Int\u0027l Cooperation; EA to Prof Kraucz · Nobel / HKU · Nobel／HKU。Asst Dir Int\u0027l Cooperation + EA to Prof Kraucz。Mandy Lau WhatsApp 24 Oct：來自烏克蘭；Nobel 得獎者左右手（Nobel-adjacent）。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_6e12f518",
+                       "name":  "Prof Chris Leung",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Department Chairperson and Clinical Professor, Ophthalmology · HKU Med · HKU Med Ophthalmology，Department Chairperson and Clinical Professor。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_b87c050c",
+                       "name":  "Prof Carol Cheung",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Professor, Ophthalmology and Visual Sciences · CUHK · CUHK Ophthalmology and Visual Sciences。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_1f2f93d4",
+                       "name":  "Prof Eric Tse",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Associate Dean (Research); Haematology and Oncology · HKU · HKU Associate Dean (Research)；Deputy Department Chairperson；S.H. Ho Professor of Haematology and Oncology。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_8281c5c5",
+                       "name":  "Prof Timothy Kwok",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Professor, Medicine \u0026 Therapeutics / Public Health · CUHK · CUHK Medicine \u0026 Therapeutics and School of Public Health。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_1058e863",
+                       "name":  "Prof Alan Chow",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 VIP · Adjunct Professor; Founder of AI Lab · HKU · HKU Adjunct Professor and Founder of AI Lab。唔係 CM Chow。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_d698b34e",
+                       "name":  "Prof Man Chung",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+                                        "Anthony Chan",
+                                        "Ngai Chi Man"
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Physiotherapy · Virtus Medical · Physiotherapy。配偶 Dr Connie TO。座位：想同 ENT（Anthony Chan、Ngai Chi Man）一枱 · sit with ENT",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_8531f538",
+                       "name":  "Dr Connie TO",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "Man Chung",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_799744fd",
+                       "name":  "Dr Julie Wang",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Respiratory Medicine · Virtus Medical · Respiratory Medicine。正選→已登記。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_ea5b9660",
+                       "name":  "Mrs Bree Crockett",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spot · Spot。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_88e6991c",
+                       "name":  "Ms May Liang",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 · 上实 · 上实。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_33593b21",
+                       "name":  "Mr Wu Hai 吴海",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 · Cenova · Cenova。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_c3d940b1",
+                       "name":  "Mr Vincent Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 · Samena · Samena。太太一齊",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_c4ca8097",
+                       "name":  "Mrs Vincent Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "Vincent Chan",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 · Spouse / Plus-one · Samena · Samena",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_fb66ba67",
+                       "name":  "Mr Ivan Tam",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 · Chevalier · Chevalier。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_66eb42ae",
+                       "name":  "Ms Sylvia Chung",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "口頭 · Chevalier · Chevalier。之前寫 Sylvia Tam。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_3e05b9d8",
+                       "name":  "Mr Calvin Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Chairman and CEO · Catalo · Catalo Chairman and CEO。pa@catalo.com.hk。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_07c6d32e",
+                       "name":  "Mr Amdy Tang",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Novo Nordisk · Novo Nordisk。wgtn@novonordisk.com。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_31135b6a",
+                       "name":  "Dr TSE Sing Sang Bell",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Neurology · Outside · Neurology。belltse@hotmail.com。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_765add56",
+                       "name":  "Mr Ronald Lam",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Lawyer · Outside · 律師；Dr Kelvin Ho 朋友。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_2cb3a55c",
+                       "name":  "Prof Simon Yu",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Former Chair Professor, Interventional Radiology · CUHK · CUHK Former Chair Professor, Interventional Radiology。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_37652183",
+                       "name":  "Prof Tatia Lee",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Chair Professor of Psychological Science and Clinical Psychology · HKU · HKU Chair Professor of Psychological Science and Clinical Psychology。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_10559781",
+                       "name":  "Mr Seth Zhang",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Meditrust Health · meditrusthealth。配偶 Teresa Geng",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_04df6d5c",
+                       "name":  "Mrs Teresa Geng",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "Seth Zhang",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Meditrust Health",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7c3f6a88",
+                       "name":  "Ms Rittou Lee",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Secretary · Virtus Medical · Heart Clinic secretary。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_adefb34c",
+                       "name":  "Dr Adrian Cheong",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Cardiology · Virtus Medical · Cardiology。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_1a320e98",
+                       "name":  "Mr Sim Zhi Min",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Tsinghua · 清華 shenzm21@tsinghua.org.cn。外間。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_45e8332c",
+                       "name":  "Dr CP Ho",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · kidney.hk · cpho@kidney.hk。外間。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_5a2d197a",
+                       "name":  "Ms Anna Lee",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Gogo PR · Outside · Gogo PR。annaswlee@gmail.com。座位：Stephen Barry 坐隔離。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7e4ecb43",
+                       "name":  "Mr Torres Lam",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Novo Nordisk · Novo Nordisk。外間。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7ca2e710",
+                       "name":  "Prof Wong Tien Yin",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Senior Vice Chancellor, Tsinghua Medicine · Tsinghua Medicine · Senior Vice Chancellor, Tsinghua Medicine。ophwty@nus.edu.sg。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_b6506a23",
+                       "name":  "Ms Susan Ho",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Head of Central Pharmacy \u0026 Procurement · Virtus Medical Group · 內部員工：HO Shu Man，Central Pharmacy。Luma 名 Virtus Central Pharmacy。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_b1a4993c",
+                       "name":  "Dr James Yip",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Director, VCSTP · Virtus Medical Group · 內部員工：Yip James Tin Hang，Director VCSTP。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_a4cfed36",
+                       "name":  "Dr Ada Ma",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "人手登記 · Doctor · Partner clinic (outside) · Guest list 正選。外間／無 Luma。同行 Leo Cheung（clinic manager）",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_fbf797be",
+                       "name":  "Mr Leo Cheung",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "Ada Ma",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "人手登記 · Spouse / Plus-one · Partner clinic (outside) · Dr Ada Ma clinic manager。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_e8fcbc66",
+                       "name":  "Ms Mindy Hung",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spot · Spot。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_6453e113",
+                       "name":  "Mrs Jessica Tuohy",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spot · Spot。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_3a85f6b3",
+                       "name":  "Dr Roland Leung",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Respiratory Medicine · Virtus Medical · LEUNG Chung Chuen。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_e930cf70",
+                       "name":  "Mrs Bronwyn Timson",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spot · Spot。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_47e57f88",
+                       "name":  "Mr Chris Chan",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Staff · Virtus Medical Group · Chan Chun Kit。電郵 chris.chan@virtuscare.com。唔喺 Guest list。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_d9ce26ab",
+                       "name":  "Dr Amanda Oswalt Visher",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spot · Spot。配偶 Rex Visher 已取消",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_c33bed03",
+                       "name":  "Dr Terence Ma",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spot · Spot。配偶 Romina Lee 已取消",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_1eb0a5a2",
+                       "name":  "Mr Daniel Ng",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · GM, Corporate Development · Virtus Medical Group · 內部員工：Ng Wai Ching，GM Corporate Development。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_066d2741",
+                       "name":  "Dr Walter Chen",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Cardiology · Virtus Medical · Cardiology。已登記。口頭再確認會嚟。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7af13068",
+                       "name":  "Dr Charles Chan",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "WhatsApp · General Practitioner · Virtus Medical · CHAN Wen Cheng。無填 Luma。配偶冇提",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_36513289",
+                       "name":  "Dr CM Chow",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Paediatrics · Virtus Medical · Chow Chung Mo。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_2a2cda3c",
+                       "name":  "Dr Clara Law",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Rheumatology · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_49e440a4",
+                       "name":  "Mr Collin Lau",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Group CEO · Virtus Medical Group · 內部員工：Lau Ka Lam，Group CEO。WhatsApp 太太 Doris Fung 會嚟。Luma 配偶欄曾經寫 No",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7b906a68",
+                       "name":  "Ms Doris Fung",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "Collin Lau",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "WhatsApp · Spouse / Plus-one · Virtus Medical Group · Collin Lau 太太。無飲食限制。無 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_2a8d5f0e",
+                       "name":  "Dr Ho Yung Yung",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Paediatrics · Virtus Medical · Not included。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_9c76bf86",
+                       "name":  "Mr Samuel Poon",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Special Advisor · Virtus Medical Group · 內部員工：Poon Yiu Kin，Special Advisor。唔係 Angus Poon／Samuel Fung／Chan Ka Sum。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_1cdc2963",
+                       "name":  "Dr Alan Suen",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Cardiothoracic Surgery · Virtus Medical · 樂隊 Love Story。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_5e17a8c7",
+                       "name":  "Ms Anita Wong",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · MD - ICN · Virtus Medical Group · 內部員工：Wong Po Lin，MD - ICN。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_c57b547d",
+                       "name":  "Ms Mandy Lau",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Medical Community Manager · Virtus Medical Group · 內部員工：Lau Pui Man，Medical Community Manager。Luma 舊欄位係測試字，當未填、配偶無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_0c954af9",
+                       "name":  "Dr Edward Sitt",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Cardiology · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_158f8c6f",
+                       "name":  "Ms Alice Leung",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Staff · Virtus Medical Group · 唔喺 Guest list／Not included。電郵 alice.leung@virtuscare.com。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_19f25125",
+                       "name":  "Dr Matthew Yu",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Gastroenterology \u0026 Hepatology · Virtus Medical · 樂隊 Somewhere Only We Know。配偶 Chui Winona Yan Ting",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_d4996822",
+                       "name":  "Ms Chui Winona Yan Ting",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Matthew Yu",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_86d6050d",
+                       "name":  "Mr Terry Chong",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Physiotherapy · Virtus Medical · Chong Chun Wing。唔係 Patrick Chong，亦唔係 Dr. TING Ho Yan。Not included 行 Terry，5 Oct 出訊。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_c3b7c15d",
+                       "name":  "Dr Arthur Lee",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Physiotherapy · Virtus Medical · 6 Oct 交相。Not included：Dr. LEE Wai Chun。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_4bc5c5ad",
+                       "name":  "Ms Carrie",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Aesthetic Clinic Head · Virtus Medical Group · Aesthetic Clinic Head。Not included，5 Oct 出訊。電郵 kaka_0130@yahoo.com.hk。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_9a0ab623",
+                       "name":  "Ms Cherie Cheng",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Nursing Manager · Virtus Medical Group · 內部員工：Nursing Manager。Luma 已登記。配偶 Joe（Wong Kwok Kin）唔去，只計 Cherie",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_8c09495f",
+                       "name":  "Dr Chris Wong",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Cardiology · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_787f65fa",
+                       "name":  "Mr Lee Sing",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Psychiatry · Virtus Medical · Guest list 係 Prof. LEE Sing。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7b4c151c",
+                       "name":  "Dr Helen Poon",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Clinical Psychology · Virtus Medical · 4 Oct 交相。樂隊 Yesterday Once More。配偶 Nguyen Tin",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_9d85cf23",
+                       "name":  "Mr Nguyen Tin",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Helen Poon",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_2b49766a",
+                       "name":  "Dr Pat Poon",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Clinical Oncology · Virtus Medical · Patricia Poon。配偶 Ray Sun",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7abf6d73",
+                       "name":  "Mr Ray Sun",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Pat Poon",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_a736c164",
+                       "name":  "Dr Denise Tam",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Family Medicine / GP · Virtus Medical · 內部員工：Tam Yick Sin，Family Med。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_08718487",
+                       "name":  "Dr Lee Yuk Tong",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Gastroenterology \u0026 Hepatology · Virtus Medical · 唔係 Lee Cheung Kei。配偶 Keung Chui Ling",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_d4182873",
+                       "name":  "Mrs Keung Chui Ling",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Lee Yuk Tong",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_3aaee47b",
+                       "name":  "Dr Alfred Tam",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Paediatric Respiratory / Paediatrics · Virtus Medical · 樂隊 What a Wonderful World。配偶 Rosanna Chan",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_e7658b81",
+                       "name":  "Dr Rosanna Chan",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Alfred Tam",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_574c6375",
+                       "name":  "Dr Max Yung",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Urology · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_fa3a1f24",
+                       "name":  "Dr Oliver Tang",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Paediatrics · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_9cfd889f",
+                       "name":  "Dr Manson Fok",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · General Surgery · Virtus Medical · 2 Oct 交相，WhatsApp 確認。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7b6b46e6",
+                       "name":  "Dr Wong Wai Sheung",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Endocrinology, Diabetes \u0026 Metabolism · Virtus Medical · Luma 拼 Sheing。配偶 = 無。遊戲 folder 未見佢份相",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_55f332ff",
+                       "name":  "Dr Alex Lai",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Gastroenterology \u0026 Hepatology · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_955fa418",
+                       "name":  "Dr Derek Tam",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · General Surgery · Virtus Medical · 配偶 Lee Wai Man Sarah",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_e5b81d87",
+                       "name":  "Dr Lee Wai Man Sarah",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Derek Tam",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_6d6b16ec",
+                       "name":  "Dr Anne Chan",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Anaesthesiology \u0026 Pain Medicine · Virtus Medical · Virtus doctor：Anaesthesiology \u0026 Pain Medicine。配偶 Michael Poon 突然唔嚟",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_7f9a95fb",
+                       "name":  "Dr Anthony Chan",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Otorhinolaryngology (ENT) · Virtus Medical · Drive 資料夾 anthony-chan",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_3b47d8c0",
+                       "name":  "Mrs Lai Man Kai",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Anthony Chan",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_93c428ab",
+                       "name":  "Prof Felix Chan",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Geriatrics · Virtus Medical · WhatsApp 寫 with mum，Luma 寫 Mrs CHAN",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_63c047cd",
+                       "name":  "Mrs CHAN／媽媽",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Felix Chan",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "兩邊衝突 · Spouse / Plus-one · Virtus Medical · 只計 1 席，席卡名未確認",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_dafa7221",
+                       "name":  "Dr Chan Yung",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "WhatsApp · Neurosurgery · Virtus Medical · 無填 Luma",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_a2a85061",
+                       "name":  "Dr 張世傑 Chang Shyh Jye",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · General Surgery · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_add9881f",
+                       "name":  "Dr Chung Wai Sau",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Psychiatry · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_b3f58f4d",
+                       "name":  "Ms Wong Kee Chow",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Chung Wai Sau",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_09eb6dd6",
+                       "name":  "Dr Francis Li",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Gastroenterology \u0026 Hepatology · Virtus Medical · 交咗兩個資料夾。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_b193d397",
+                       "name":  "Mr Henry Guo",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Physiotherapy · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_80089954",
+                       "name":  "Mr Hei Ng",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Company Staff · Amber Medical · Amber 公司員工。樂隊 Fly Me to the Moon。上台 Pls excuse",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_5d8c136e",
+                       "name":  "Ms Lau Wai Lam Ophelia",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "Hei Ng",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Amber Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_3d083c1c",
+                       "name":  "Dr Jennifer Sihoe",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Paediatric Surgery · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_cb3283ab",
+                       "name":  "Dr Frank Lam",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Gastroenterology \u0026 Hepatology · Virtus Medical · Lam Yuk Fai。6 Oct 交相。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_fa200224",
+                       "name":  "Dr Lee Cheung Kei",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "WhatsApp · Geriatric Medicine · Virtus Medical · 唔係 Lee Yuk Tong",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_3b1c9b95",
+                       "name":  "Prof Leonard Li",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Neurology · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_b7a520c3",
+                       "name":  "Dr Canice Ng",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Cardiology · Virtus Medical · 9 Oct 交相。配偶 Helen Ng",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_bcabdfdb",
+                       "name":  "Mrs Helen Ng",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Canice Ng",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_dcbfd814",
+                       "name":  "Dr Priscilla Wong",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Rheumatology · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_49a155d4",
+                       "name":  "Dr Robin Sheung",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_59121f1e",
+                       "name":  "Dr Ryan Ko",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Cardiology · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_d14843a8",
+                       "name":  "Mrs Maggie Ho Ko",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Ryan Ko",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_8e6e37ff",
+                       "name":  "Dr Samuel Fung",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Internal Medicine / Nephrology · Virtus Medical · 配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_32f5bc9c",
+                       "name":  "Dr Stanley Lo",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Nephrology · Virtus Medical · 想聽 If You Leave Me Now、Goodbye Yellow Brick Road",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_2475868b",
+                       "name":  "Ms Polly Hung",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Stanley Lo",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_683f6f13",
+                       "name":  "Dr Vincent Luk",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma + WhatsApp · Cardiology · Virtus Medical · 唔係 Luk Che Chung。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_4b3de345",
+                       "name":  "Dr Wilfred Mui",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · General Surgery · Virtus Medical · 樂隊 Can\u0027t Help Falling in Love；上台 Blue Suede Shoes",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_933cae25",
+                       "name":  "Mrs Jessica Tai",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "Wilfred Mui",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Spouse / Plus-one · Virtus Medical",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_9492f05c",
+                       "name":  "Ms Winnie Lee",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · Director, Special Project · Virtus Medical Group · 內部員工：Lee Wan Tai，Director Special Project。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_84a808b1",
+                       "name":  "Dr Yvonne Lam",
+                       "email":  "",
+                       "group":  "Virtus Dr",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "Luma · General Practitioner · Virtus Medical · 內部員工：Lam Wing Yi，GP。配偶 = 無",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_053e707c",
+                       "name":  "Cliff Chung",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Guest list · 話已登記，Luma 未見；已發 reminder。已計入預計",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_25cc0447",
+                       "name":  "Victor Hsue",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Guest list · 已出訊 24 Sep。正選未登記，已計入預計",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_2ace9993",
+                       "name":  "CM Chu",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Guest list · 口頭會嚟，未登記。已計入預計",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_34e0e8d4",
+                       "name":  "Peter Chan (Guest list)",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Guest list · 原名 Peter Han。話已登記，Luma 未見；已發 reminder。唔係 Not included CHAN Chun Wing",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_2103df3f",
+                       "name":  "Cheung Yik Tung",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · 內部員工 · Virtus Medical Group · 15 Oct 已出訊，未開。員工必到，已計入預計",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_9e288e1f",
+                       "name":  "Cheng Ka Wai",
+                       "email":  "",
+                       "group":  "Staff",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · 內部員工 · Virtus Medical Group · 15 Oct 已出訊，未開。員工必到，已計入預計",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_25ccf2d7",
+                       "name":  "Ryan Fung",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · 內部員工 · Virtus Medical Group · 15 Oct 已出訊，未開。員工必到。唔係 Ryan Ko",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_3bf1a7d3",
+                       "name":  "Vanessa Chau",
+                       "email":  "",
+                       "group":  "Allied health",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · 內部員工 · Virtus Medical Group · 15 Oct 已出訊，未開。員工必到，已計入預計",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_35ba10ef",
+                       "name":  "Winnie Yau",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Guest list · 正選未登記。未出 WhatsApp。唔係 Winnie Lee",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_47b3c085",
+                       "name":  "To Hing Ting",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Not included",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_54d610bc",
+                       "name":  "Tam Tak Cheong",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Not included",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_c060de2a",
+                       "name":  "Ray Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Not included",
+                       "_warn":  false
+                   },
+                   {
+                       "id":  "g_71a73d38",
+                       "name":  "Bill Chan",
+                       "email":  "",
+                       "group":  "Outsider / VIP",
+                       "diet":  "",
+                       "photo":  false,
+                       "tableId":  null,
+                       "seat":  null,
+                       "mustNear":  [
+
+                                    ],
+                       "mustNotNear":  [
+
+                                       ],
+                       "note":  "EXPECTED HOLD · Not included",
+                       "_warn":  false
+                   }
+               ],
+    "planName":  "Virtus Medical Partners Dinner 2026"
+}

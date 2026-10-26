@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex,nofollow">
+	<title>Seating — Virtus Medical Partners Dinner 2026</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="assets/app.css?v=35">
+</head>
+<body data-authed="1">
+	<div id="app" class="app">
+		<header class="top">
+			<div class="brand">
+				<span class="kicker">Virtus Medical</span>
+				<h1 id="eventTitle">Virtus Medical Partners Dinner 2026</h1>
+			</div>
+			<div class="actions">
+				<label class="plan-name-field" title="Custom plan / version name">Plan
+					<input type="text" id="planName" class="plan-name-input" placeholder="e.g. Final v3" maxlength="80" autocomplete="off">
+				</label>
+				<button type="button" class="btn ghost" id="btnAddGuest" title="Create a guest manually">+ Guest</button>
+				<label class="btn ghost file-btn">Import CSV<input type="file" id="importFile" accept=".csv,text/csv" hidden></label>
+				<select id="importMode" class="sel"><option value="merge">Merge</option><option value="replace">Replace guests</option></select>
+				<select id="layoutSelect" class="sel"><option value="option1" selected>Option 1 · 30 tables</option><option value="option2">Option 2 · 25 tables · front</option></select>
+				<button type="button" class="btn ghost" id="btnRealign">Realign</button>
+				<button type="button" class="btn ghost" id="btnAddTable">+ Table</button>
+				<button type="button" class="btn" id="btnSave" title="Save + create version record">Save</button>
+				<button type="button" class="btn ghost" id="btnVersions" title="Open saved versions">Versions</button>
+				<button type="button" class="btn ghost" id="btnExportPdf" title="Save as PDF via print dialog">Export PDF</button>
+			</div>
+		</header>
+		<div class="status-bar"><span id="statusText">Loading…</span><span id="warnCount" class="warn-pill" hidden></span>
+			<span class="legend">
+				<span class="leg grp-virtus-dr"><span class="grp-badge">Dr</span> Virtus Dr</span>
+				<span class="leg grp-allied"><span class="grp-badge">AH</span> Allied</span>
+				<span class="leg grp-staff"><span class="grp-badge">St</span> Staff</span>
+				<span class="leg grp-vip"><span class="grp-badge">VIP</span> Outsider</span>
+				<span class="leg grp-spouse"><span class="grp-badge">Sp</span> Spouse</span>
+			</span>
+		</div>
+		<main class="layout">
+			<aside class="panel pool-panel">
+				<div class="panel-head">
+					<div class="panel-head-row">
+						<h2>Unseated <span id="poolCount">0</span></h2>
+						<button type="button" class="btn ghost btn-sm" id="btnAddGuestPool" title="Create guest">+</button>
+					</div>
+					<input type="search" id="poolSearch" placeholder="Search..." autocomplete="off">
+					<select id="poolFilter"><option value="">All groups</option></select>
+				</div>
+				<ul id="poolList" class="guest-list"></ul>
+			</aside>
+			<section class="canvas-wrap">
+				<button type="button" class="venue-thumb" id="btnVenueThumb" title="Open venue floor plan" hidden>
+					<img src="assets/floorplan-option1.png?v=1" alt="Venue floor plan">
+					<span>Floor plan</span>
+				</button>
+				<div class="zoom-bar" title="Scroll = zoom · drag empty / Space+drag = pan">
+					<button type="button" class="btn ghost zoom-btn" id="btnZoomOut">−</button>
+					<button type="button" class="btn ghost zoom-label" id="btnZoomReset">100%</button>
+					<button type="button" class="btn ghost zoom-btn" id="btnZoomIn">+</button>
+					<button type="button" class="btn ghost zoom-btn" id="btnZoomFit">Fit</button>
+				</div>
+				<div class="canvas-viewport" id="canvasViewport">
+					<div id="canvas" class="canvas" tabindex="0"></div>
+				</div>
+			</section>
+			<dialog class="venue-modal" id="venueModal">
+				<form method="dialog" class="venue-modal-bar">
+					<strong>Venue floor plan</strong>
+					<button type="submit" class="btn ghost" value="close">Close</button>
+				</form>
+				<div class="venue-modal-body">
+					<img id="venueModalImg" src="assets/floorplan-option1.png?v=1" alt="Venue floor plan full">
+				</div>
+			</dialog>
+			<dialog class="saves-modal" id="savesModal">
+				<form method="dialog" class="venue-modal-bar">
+					<strong>Saved versions</strong>
+					<button type="submit" class="btn ghost" value="close">Close</button>
+				</form>
+				<div class="saves-toolbar">
+					<button type="button" class="btn" id="btnOpenLatest">Open latest</button>
+					<span class="muted" id="savesHint">Saved in this browser (localStorage)</span>
+				</div>
+				<ul id="savesList" class="saves-list"></ul>
+			</dialog>
+			<dialog class="guest-modal" id="guestModal">
+				<form id="guestCreateForm" class="guest-create">
+					<div class="venue-modal-bar">
+						<strong>Create guest</strong>
+						<button type="button" class="btn ghost" id="btnGuestCancel">Close</button>
+					</div>
+					<div class="guest-create-body">
+						<label>Name <input name="name" required maxlength="120" autocomplete="off" placeholder="Full name"></label>
+						<label>Group <input name="group" list="groupList" maxlength="120" placeholder="e.g. Virtus Doctor / Staff / VIP"></label>
+						<label>Diet <input name="diet" maxlength="120" placeholder="None / vegetarian…"></label>
+						<label>Email <input name="email" type="email" maxlength="160" autocomplete="off"></label>
+						<label class="check"><input name="photo" type="checkbox"> Childhood photo</label>
+						<label>Must sit near <input name="mustNear" placeholder="Name; Name"></label>
+						<label>Must not near <input name="mustNotNear" placeholder="Name; Name"></label>
+						<label>Note <textarea name="note" rows="2" maxlength="500"></textarea></label>
+						<div class="detail-actions">
+							<button type="submit" class="btn">Create</button>
+							<button type="button" class="btn ghost" id="btnGuestCreateAnother">Create &amp; add another</button>
+						</div>
+					</div>
+				</form>
+			</dialog>
+			<aside class="panel detail-panel">
+				<div class="panel-head"><h2>Details</h2></div>
+				<div id="detailEmpty" class="muted pad">Select a guest or table.</div>
+				<form id="detailForm" class="detail-form" hidden>
+					<label>Name <input name="name" required></label>
+					<label>Group <input name="group" list="groupList"></label>
+					<label>Diet <input name="diet"></label>
+					<label>Email <input name="email" type="email"></label>
+					<label class="check"><input name="photo" type="checkbox"> Childhood photo</label>
+					<label>Must sit near <input name="mustNear" placeholder="Name; Name"></label>
+					<label>Must not near <input name="mustNotNear" placeholder="Name; Name"></label>
+					<label>Note <textarea name="note" rows="3"></textarea></label>
+					<div class="detail-actions">
+						<button type="submit" class="btn">Apply</button>
+						<button type="button" class="btn ghost" id="btnUnseat">Unseat</button>
+						<button type="button" class="btn ghost danger" id="btnDelGuest">Delete</button>
+					</div>
+					<div id="detailWarns" class="warns"></div>
+				</form>
+				<form id="tableForm" class="detail-form" hidden>
+					<label>Label <input name="label" required></label>
+					<label>Seats <input name="seats" type="number" min="2" max="24"></label>
+					<label>Shape <select name="shape"><option value="round">Round</option><option value="long">Long</option></select></label>
+					<div class="detail-actions">
+						<button type="submit" class="btn">Apply</button>
+						<button type="button" class="btn ghost danger" id="btnDelTable">Delete table</button>
+					</div>
+				</form>
+				<section class="rules-box"><h3>Rule warnings</h3><ul id="globalWarns" class="warn-list"></ul></section>
+			</aside>
+		</main>
+	</div>
+	<div id="loginGate" hidden></div>
+	<form id="loginForm" hidden><input id="loginPassword" type="password"><button type="submit">x</button><p id="loginError" hidden></p></form>
+	<button type="button" id="btnLogout" hidden></button>
+	<datalist id="groupList"></datalist>
+	<script>
+		window.SEATING = { csrf: 'static', authed: true, defaultSeats: 6, static: true };
+	</script>
+	<script src="assets/app.js?v=35"></script>
+</body>
+</html>

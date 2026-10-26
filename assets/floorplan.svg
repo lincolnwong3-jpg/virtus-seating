@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Venue shell only � interactive tables sit on aligned grid above -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780">
+	<defs><style><![CDATA[
+		.wall{fill:none;stroke:#c9a86a;stroke-width:5}
+		.zone-bar{fill:rgba(70,110,180,.42);stroke:#6a9ad4;stroke-width:2}
+		.zone-service{fill:rgba(40,40,40,.5)}
+		.column{fill:#111;stroke:#c9a86a;stroke-width:2}
+		.stair{fill:rgba(201,168,106,.14);stroke:#a08050;stroke-width:1.5}
+		.guide{fill:none;stroke:rgba(201,168,106,.12);stroke-width:1;stroke-dasharray:4 6}
+		.label{fill:#e4d0a8;font-family:system-ui,sans-serif;font-size:13px;font-weight:600;text-anchor:middle}
+		.sm{font-size:10px;fill:#a09070}
+		.opt{fill:#c9a86a;font-size:15px;font-weight:600;text-anchor:start}
+	]]></style></defs>
+	<rect width="1200" height="780" fill="#0a0a0a"/>
+	<text class="opt" x="24" y="28">OPTION 1 � fixed grid � 27 � 6</text>
+	<rect class="zone-service" x="80" y="40" width="1040" height="135"/>
+	<text class="label sm" x="600" y="100">LIFTS / LOBBY</text>
+	<path class="wall" d="M100 190 H1100 V620 Q600 655 100 620 Z"/>
+	<rect class="zone-bar" x="115" y="230" width="155" height="320" rx="4"/>
+	<text class="label" x="192" y="390">BAR</text>
+	<path class="stair" d="M320 195 H430 V310 H360 V250 H320 Z"/>
+	<text class="label sm" x="375" y="268">STAIR</text>
+	<circle class="column" cx="420" cy="560" r="18"/>
+	<circle class="column" cx="780" cy="560" r="18"/>
+	<text class="label sm" x="420" y="595">COL</text>
+	<text class="label sm" x="780" y="595">COL</text>
+	<!-- alignment guides (faint) matching table anchors -->
+	<rect class="guide" x="288" y="248" width="172" height="330"/>
+	<rect class="guide" x="498" y="248" width="470" height="310"/>
+</svg>

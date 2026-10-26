@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780">
+  <rect width="1200" height="780" fill="#0a0a0a"/>
+  <text x="24" y="28" fill="#c9a86a" font-family="system-ui,sans-serif" font-size="15" font-weight="600">OPTION 2 - fixed grid - 25 x 6</text>
+  <rect x="80" y="40" width="1040" height="100" fill="rgba(55,55,55,0.7)" stroke="#888" stroke-width="1.5"/>
+  <text x="600" y="95" text-anchor="middle" fill="#c9b896" font-family="system-ui,sans-serif" font-size="12" letter-spacing="2">LIFTS / LOBBY (back)</text>
+  <rect x="280" y="155" width="720" height="58" rx="4" fill="rgba(201,168,106,0.28)" stroke="#c9a86a" stroke-width="2.5"/>
+  <text x="640" y="192" text-anchor="middle" fill="#f0e0b8" font-family="system-ui,sans-serif" font-size="18" font-weight="700" letter-spacing="4">STAGE</text>
+  <path d="M100 220 H1100 V640 Q600 680 100 640 Z" fill="rgba(201,168,106,0.04)" stroke="#c9a86a" stroke-width="5"/>
+  <rect x="115" y="250" width="155" height="300" rx="4" fill="rgba(70,110,180,0.55)" stroke="#7aade8" stroke-width="2.5"/>
+  <text x="192" y="400" text-anchor="middle" fill="#e8dcc0" font-family="system-ui,sans-serif" font-size="15" font-weight="700">BAR</text>
+  <rect x="280" y="250" width="180" height="300" rx="4" fill="rgba(201,168,106,0.05)" stroke="rgba(201,168,106,0.2)" stroke-dasharray="6 4"/>
+  <text x="370" y="400" text-anchor="middle" fill="#a09070" font-family="system-ui,sans-serif" font-size="10">OPEN</text>
+  <circle cx="420" cy="580" r="18" fill="#151515" stroke="#c9a86a" stroke-width="2"/>
+  <circle cx="780" cy="580" r="18" fill="#151515" stroke="#c9a86a" stroke-width="2"/>
+  <rect x="478" y="248" width="460" height="310" fill="none" stroke="rgba(201,168,106,0.15)" stroke-dasharray="4 6"/>
+  <rect x="1035" y="248" width="60" height="340" fill="none" stroke="rgba(201,168,106,0.15)" stroke-dasharray="4 6"/>
+</svg>
